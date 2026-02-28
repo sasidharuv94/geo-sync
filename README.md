@@ -63,3 +63,19 @@ VITE_BACKEND_URL=http://localhost:5000
 
 - Backend deployed on Render
 - Frontend deployed on Vercel
+
+
+
+## How to run both client and server
+
+- Backend:
+
+- cd backend
+- npm install
+- npm start
+
+- Frontend:
+
+- cd frontend
+- npm install
+- npm run dev
